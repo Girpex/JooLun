@@ -1,19 +1,3 @@
-### 开源版截图
-<table>
-    <tr>
-        <td><img src="https://images.gitee.com/uploads/images/2021/0206/113219_bd774cf3_5079715.png"/></td>
-        <td><img src="https://images.gitee.com/uploads/images/2021/0206/113232_e3bcb374_5079715.png"/></td>
-    </tr>
-    <tr>
-        <td><img src="https://images.gitee.com/uploads/images/2021/0206/113243_3f8c1ec2_5079715.png"/></td>
-        <td><img src="https://images.gitee.com/uploads/images/2021/0206/113256_cf5bb28b_5079715.png"/></td>
-    </tr>
-    <tr>
-        <td><img src="https://images.gitee.com/uploads/images/2020/0305/161111_71e7f26a_5079715.png"/></td>
-        <td><img src="https://images.gitee.com/uploads/images/2020/0305/161331_bae82a4f_5079715.png"/></td>
-    </tr>
-</table>
-
 ### 商业版截图
 ![输入图片说明](https://23592599.s21i.faiusr.com/2/ABUIABACGAAgsuzXmgYohsWjzgIwgA847gU.jpg)
 ![输入图片说明](https://23592599.s21i.faiusr.com/4/ABUIABAEGAAgw5ThmAYox7iypAEwsAk4iAQ.png.webp)
@@ -34,6 +18,22 @@
     <tr>
         <td><img src="https://23592599.s21i.faiusr.com/4/ABUIABAEGAAguc-hmAYopdHjxQUw6Ac42AQ.png.webp"/></td>
         <td><img src="https://23592599.s21i.faiusr.com/4/ABUIABAEGAAg2s7hmAYowPiB2AIw6Ac42AQ.png.webp"/></td>
+    </tr>
+</table>
+
+### 开源版截图
+<table>
+    <tr>
+        <td><img src="https://images.gitee.com/uploads/images/2021/0206/113219_bd774cf3_5079715.png"/></td>
+        <td><img src="https://images.gitee.com/uploads/images/2021/0206/113232_e3bcb374_5079715.png"/></td>
+    </tr>
+    <tr>
+        <td><img src="https://images.gitee.com/uploads/images/2021/0206/113243_3f8c1ec2_5079715.png"/></td>
+        <td><img src="https://images.gitee.com/uploads/images/2021/0206/113256_cf5bb28b_5079715.png"/></td>
+    </tr>
+    <tr>
+        <td><img src="https://images.gitee.com/uploads/images/2020/0305/161111_71e7f26a_5079715.png"/></td>
+        <td><img src="https://images.gitee.com/uploads/images/2020/0305/161331_bae82a4f_5079715.png"/></td>
     </tr>
 </table>
 
