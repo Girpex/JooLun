@@ -10,7 +10,7 @@
 ![输入图片说明](https://joolun-plus-1313274050.cos.ap-nanjing.myqcloud.com/joolun-uniapp-wx-ui/Joolun-PPT-9.jpg )
 ![输入图片说明](https://joolun-plus-1313274050.cos.ap-nanjing.myqcloud.com/joolun-uniapp-wx-ui/Joolun-PPT-10.jpg )
 ![输入图片说明](https://joolun-plus-1313274050.cos.ap-nanjing.myqcloud.com/joolun-uniapp-wx-ui/Joolun-PPT-11.jpg )
-![输入图片说明](https://joolun-plus-1313274050.cos.ap-nanjing.myqcloud.com/joolun-uniapp-wx-ui/Joolun-PPT-12.gif )
+![输入图片说明](https://joolun-plus-1313274050.cos.ap-nanjing.myqcloud.com/joolun-uniapp-wx-ui/Joolun-PPT-13.gif )
 <table>
     <tr>
         <td><img src="https://23592599.s21i.faiusr.com/4/ABUIABAEGAAg2s7hmAYo_sam-wMw6Ac42AQ.png.webp"/></td>
