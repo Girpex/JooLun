@@ -1,4 +1,3 @@
-### 商业版截图
 ![输入图片说明](https://joolun-plus-1313274050.cos.ap-nanjing.myqcloud.com/joolun-uniapp-wx-ui/Joolun-PPT-1.jpg)
 ![输入图片说明](https://joolun-plus-1313274050.cos.ap-nanjing.myqcloud.com/joolun-uniapp-wx-ui/Joolun-PPT-2.jpg )
 ![输入图片说明](https://joolun-plus-1313274050.cos.ap-nanjing.myqcloud.com/joolun-uniapp-wx-ui/Joolun-PPT-3.jpg )
@@ -59,7 +58,7 @@
 |  开源版  |  RuoYi SpringBoot单应用   |  功能简单，单租户（单商城）、单公众号、单小程序  |  只有小程序  |  https://gitee.com/joolun/JooLun-wx  |
 |  商业版  |  SpringCloud微服务、Nacos、Sentinel、vue前后端分离、uniapp等  |  功能强大、模块完善，多样化的营销工具，商城自定义拖拽装修，支付宝、微信服务商支付，支持阿里oss、七牛云、腾讯cos、minio多种存储方式，多租户（多商城）、多店铺、多公众号、多小程序等等  |  小程序、公众号h5、PC-h5、安卓、ios、商户端app等  |  https://www.joolun.com/  |
 
-### [![输入图片说明](https://images.gitee.com/uploads/images/2021/0622/110750_59b42ced_5079715.jpeg "n_community_0l.jpg")](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=wnw8gle1)<br>[阿里云领取￥2000红包，服务器低至￥91.80/年](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=wnw8gle1)
+### [阿里云领取￥2000红包，服务器低至￥91.80/年](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=wnw8gle1)
 ### 如果对您有帮助，记得点右上角 "Star" ❤️ 支持一下哦 谢谢！
 #### 该项目已实时托管置Gitee，了解项目最新动态请移步https://gitee.com/joolun/JooLun-wx ；遇到问题或发现bug请统一到Gitee发[Issues](https://gitee.com/joolun/JooLun-wx/issues)提出来，我们会定期处理
 ### 平台简介
