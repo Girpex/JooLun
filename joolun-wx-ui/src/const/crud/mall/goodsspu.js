@@ -208,6 +208,8 @@ export const tableOption = {
                     label: '销售价',
                     prop: 'salesPrice',
                     type: 'number',
+                    precision: 2,
+                    min: 0,
                     rules: [
                       {
                         required: true,
