@@ -139,6 +139,8 @@
       <textarea readonly value="{{orderInfo.userMessage}}"></textarea>
     </view>
 	</view>
+  <view style="padding-bottom: 60px;">
+	</view>
 </view>
 <view class="cu-bar tabbar bg-white border foot">
   <order-operate
