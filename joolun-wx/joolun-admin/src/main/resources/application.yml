@@ -138,5 +138,5 @@ wx:
         mchKey: xxxxxxxxxxxxxxxxxxxxx
 
 mall:
-  # 支付、物流回调地址，即后台服务7500端口的外网访问域名，要保证外网能访问
+  # 支付、物流回调地址，即后台服务7500端口的外网访问域名，要保证外网能访问，如：https://后台地址/prod-api
   notify-host: http://xx.xxxx.com
