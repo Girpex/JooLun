@@ -1,0 +1,1 @@
+ALTER TABLE `joolun_ry`.`goods_spu` ADD COLUMN `version` INT DEFAULT 0 COMMENT '版本号' AFTER `del_flag`;
