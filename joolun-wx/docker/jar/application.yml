@@ -134,7 +134,7 @@ wx:
         secret: xxxxxxxxxxxxx
         # 微信支付商户号，请去微信支付平台申请
         mchId: 1588227511
-        # 微信支付商户密钥，请去微信支付平台申请
+        # 微信支付商户APIv2密钥，请去微信支付平台申请
         mchKey: xxxxxxxxxxxxxxxxxxxxx
 
 mall:
