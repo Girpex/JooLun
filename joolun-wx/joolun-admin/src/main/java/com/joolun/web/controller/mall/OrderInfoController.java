@@ -13,6 +13,7 @@ import com.joolun.common.core.domain.AjaxResult;
 import com.joolun.mall.config.CommonConstants;
 import com.joolun.mall.constant.MallConstants;
 import com.joolun.mall.entity.OrderInfo;
+import com.joolun.mall.entity.OrderItem;
 import com.joolun.mall.entity.OrderLogistics;
 import com.joolun.mall.enums.OrderInfoEnum;
 import com.joolun.mall.service.OrderInfoService;
@@ -141,4 +142,16 @@ public class OrderInfoController extends BaseController {
 		return AjaxResult.success();
 	}
 
+	/**
+	 * 操作退款
+	 * @param orderItem
+	 * @return R
+	 */
+	@ApiOperation(value = "操作退款")
+	@PutMapping("/doOrderRefunds")
+	@PreAuthorize("@ss.hasPermi('mall:orderinfo:edit')")
+	public AjaxResult doOrderRefunds(@RequestBody OrderItem orderItem) {
+		orderInfoService.doOrderRefunds(orderItem);
+		return AjaxResult.success();
+	}
 }

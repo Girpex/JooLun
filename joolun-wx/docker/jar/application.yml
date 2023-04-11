@@ -136,6 +136,8 @@ wx:
         mchId: 1588227511
         # 微信支付商户APIv2密钥，请去微信支付平台申请
         mchKey: xxxxxxxxxxxxxxxxxxxxx
+        # p12证书的位置，可以指定绝对路径，也可以指定类路径（以classpath:开头）
+        keyPath: classpath:apiclient_cert.p12
 
 mall:
   # 支付、物流回调地址，即后台服务7500端口的外网访问域名，要保证外网能访问，如：https://后台地址/prod-api

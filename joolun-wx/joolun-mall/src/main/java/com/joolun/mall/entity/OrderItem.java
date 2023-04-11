@@ -96,5 +96,14 @@ public class OrderItem extends Model<OrderItem> {
 	 */
 	@ApiModelProperty(value = "备注")
 	private String remark;
-
+	/**
+	 * 状态0：正常；1：退款中；2:拒绝退款；3：同意退款
+	 */
+	@ApiModelProperty(value = "状态0：正常；1：退款中；2:拒绝退款；3：同意退款")
+	private String status;
+	/**
+	 * 是否退款0:否 1：是
+	 */
+	@ApiModelProperty(value = "是否退款0:否 1：是")
+	private String isRefund;
 }
