@@ -250,9 +250,6 @@
           <el-col :span="8">
             <div class="grid-content" style="color:red;">￥{{item.paymentPrice}}</div>
             <div class="grid-content">×{{item.quantity}}件</div>
-            <div class="grid-content" v-if="item.status == '0' && scope.row.isPay == '0' && !scope.row.status">
-              <el-tag type="danger" @click="handleEditPrice(item)">改价</el-tag>
-            </div>
             <div class="grid-content" v-if="item.status == '2'"><el-tag type="danger">拒绝退款</el-tag></div>
             <div class="grid-content" v-if="item.status == '3'">同意退款</div>
             <div class="grid-content" v-if="item.isRefund == '1'">已退款</div>
